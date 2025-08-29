@@ -1,0 +1,6 @@
+@PlacementAPI_HostAddress = http://localhost:5242
+
+GET {{PlacementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

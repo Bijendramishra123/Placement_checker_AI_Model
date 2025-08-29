@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PlacementAPI.Controllers.PlacementController",
+    "Method": "Predict",
+    "RelativePath": "api/Placement/predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "PlacementAPI.Models.PlacementInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

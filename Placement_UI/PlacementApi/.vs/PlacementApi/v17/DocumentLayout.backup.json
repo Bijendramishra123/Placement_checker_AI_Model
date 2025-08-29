@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|c:\\users\\love kumar sahu\\source\\repos\\placementapi\\placementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|solutionrelative:placementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|c:\\users\\love kumar sahu\\source\\repos\\placementapi\\placementapi\\services\\onnxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|solutionrelative:placementapi\\services\\onnxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|c:\\users\\love kumar sahu\\source\\repos\\placementapi\\placementapi\\controllers\\placementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|solutionrelative:placementapi\\controllers\\placementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|c:\\users\\love kumar sahu\\source\\repos\\placementapi\\placementapi\\models\\placementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|solutionrelative:placementapi\\models\\placementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|c:\\users\\love kumar sahu\\source\\repos\\placementapi\\placementapi\\placementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C23D515-50AA-4AEA-AB3C-113B5DC35097}|PlacementAPI\\PlacementAPI.csproj|solutionrelative:placementapi\\placementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlacementAPI",
+              "DocumentMoniker": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementAPI\\PlacementAPI\\PlacementAPI.csproj",
+              "RelativeDocumentMoniker": "PlacementAPI\\PlacementAPI.csproj",
+              "ToolTip": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementAPI\\PlacementAPI\\PlacementAPI.csproj",
+              "RelativeToolTip": "PlacementAPI\\PlacementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T21:50:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlacementController.cs",
+              "DocumentMoniker": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Controllers\\PlacementController.cs",
+              "RelativeDocumentMoniker": "PlacementApi\\Controllers\\PlacementController.cs",
+              "ToolTip": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Controllers\\PlacementController.cs",
+              "RelativeToolTip": "PlacementApi\\Controllers\\PlacementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:47:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnnxService.cs",
+              "DocumentMoniker": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Services\\OnnxService.cs",
+              "RelativeDocumentMoniker": "PlacementApi\\Services\\OnnxService.cs",
+              "ToolTip": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Services\\OnnxService.cs",
+              "RelativeToolTip": "PlacementApi\\Services\\OnnxService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:46:42.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlacementInput.cs",
+              "DocumentMoniker": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Models\\PlacementInput.cs",
+              "RelativeDocumentMoniker": "PlacementApi\\Models\\PlacementInput.cs",
+              "ToolTip": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Models\\PlacementInput.cs",
+              "RelativeToolTip": "PlacementApi\\Models\\PlacementInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:45:59.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Program.cs",
+              "RelativeDocumentMoniker": "PlacementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementApi\\PlacementApi\\Program.cs",
+              "RelativeToolTip": "PlacementApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:44:38.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
