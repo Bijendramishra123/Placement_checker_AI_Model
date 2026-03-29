@@ -36,8 +36,8 @@ app.UseSwaggerUI();
 // CORS enable
 app.UseCors("AllowFrontend");
 
-// HTTPS redirection
-app.UseHttpsRedirection();
+// ❌ IMPORTANT: HTTPS redirection remove for Render
+// app.UseHttpsRedirection();
 
 // Authorization
 app.UseAuthorization();
@@ -46,6 +46,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 // ======================
-// Run application
+// Run application (Render compatible)
 // ======================
 app.Run("http://0.0.0.0:10000");
