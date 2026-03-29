@@ -1,0 +1,115 @@
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.csproj.AssemblyReference.cache
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.AssemblyInfoInputs.cache
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.AssemblyInfo.cs
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.csproj.CoreCompileInputs.cache
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\appsettings.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementApi.staticwebassets.endpoints.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementApi.exe
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementApi.deps.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementApi.runtimeconfig.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementApi.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementApi.pdb
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\android\native\onnxruntime.aar
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework.zip
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-arm64\native\libonnxruntime.so
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-arm64\native\libonnxruntime_providers_shared.so
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-x64\native\libonnxruntime_providers_shared.so
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\osx-arm64\native\libonnxruntime.dylib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime.lib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\scopedcss\bundle\PlacementApi.styles.css
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\refint\PlacementApi.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.pdb
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementApi.genruntimeconfig.cache
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementApi\PlacementApi\obj\Debug\net8.0\ref\PlacementApi.dll
+C:\Users\LOVE KUMAR SAHU\source\repos\PlacementAPI\PlacementAPI\obj\Debug\net8.0\Placemen.74F3D641.Up2Date
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.csproj.AssemblyReference.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.AssemblyInfoInputs.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.AssemblyInfo.cs
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.csproj.CoreCompileInputs.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.sourcelink.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\refint\PlacementAPI.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.pdb
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\appsettings.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementAPI.staticwebassets.endpoints.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementAPI.exe
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementAPI.deps.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementAPI.runtimeconfig.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementAPI.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\PlacementAPI.pdb
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\android\native\onnxruntime.aar
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework.zip
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-arm64\native\libonnxruntime.so
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-arm64\native\libonnxruntime_providers_shared.so
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\linux-x64\native\libonnxruntime_providers_shared.so
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\osx-arm64\native\libonnxruntime.dylib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime.lib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\scopedcss\bundle\PlacementAPI.styles.css
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\Placemen.74F3D641.Up2Date
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\PlacementAPI.genruntimeconfig.cache
+C:\Users\RAVI\Desktop\.Net_core\Placement_checker_AI_Model\Placement_UI\PlacementApi\PlacementApi\obj\Debug\net8.0\ref\PlacementAPI.dll

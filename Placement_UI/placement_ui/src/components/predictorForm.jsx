@@ -7,25 +7,70 @@ function PredictorForm() {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
 
+  const BASE_URL = "http://localhost:5242";
+
   const handleSubmit = async (e) => {
     e.preventDefault();
+
+    // ✅ Step 1: Input validation (IMPORTANT)
+    const cgpaValue = parseFloat(cgpa);
+    const iqValue = parseFloat(iq);
+
+    if (!cgpa || !iq) {
+      setResult({ error: "Please fill all fields" });
+      return;
+    }
+
+    if (isNaN(cgpaValue) || isNaN(iqValue)) {
+      setResult({ error: "Invalid number format" });
+      return;
+    }
+
+    // Range validation (backend ke rules ke according)
+    if (cgpaValue < 0 || cgpaValue > 10) {
+      setResult({ error: "CGPA must be between 0 and 10" });
+      return;
+    }
+
+    if (iqValue < 0 || iqValue > 200) {
+      setResult({ error: "IQ must be between 0 and 200" });
+      return;
+    }
+
     setLoading(true);
     setResult(null);
 
     try {
-      const response = await fetch('https://localhost:7111/api/Placement/predict', {
+      const response = await fetch(`${BASE_URL}/api/Placement/predict`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json' 
+        },
         body: JSON.stringify({
-          cgpa: parseFloat(cgpa),
-          iq: parseFloat(iq)
+          cgpa: cgpaValue,
+          iq: iqValue
         })
       });
 
+      // ✅ Step 2: Handle backend validation errors properly
+      if (!response.ok) {
+        const errorData = await response.json();
+        console.error("Backend error:", errorData);
+
+        setResult({
+          error: errorData?.errors 
+            ? Object.values(errorData.errors).flat().join(", ")
+            : "Backend validation failed"
+        });
+        return;
+      }
+
       const data = await response.json();
       setResult(data);
+
     } catch (err) {
-      setResult({ error: 'Prediction failed. Check backend.' });
+      console.error(err);
+      setResult({ error: 'Server connection error' });
     } finally {
       setLoading(false);
     }
@@ -47,6 +92,7 @@ function PredictorForm() {
   return (
     <div className="form-container">
       <h2>🎓 Placement Predictor</h2>
+
       <form onSubmit={handleSubmit}>
         <label htmlFor="cgpa">CGPA</label>
         <input

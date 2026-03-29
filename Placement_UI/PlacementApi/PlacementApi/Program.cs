@@ -1,11 +1,15 @@
 ﻿var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container
+// ======================
+// Add services to container
+// ======================
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// ✅ Enable CORS for frontend access
+// ======================
+// CORS Configuration (React connect ke liye)
+// ======================
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
@@ -16,18 +20,32 @@ builder.Services.AddCors(options =>
     });
 });
 
+// ======================
+// Build app
+// ======================
 var app = builder.Build();
 
-// ✅ Use Swagger in all environments
+// ======================
+// Middleware pipeline
+// ======================
+
+// Swagger enable (har environment me)
 app.UseSwagger();
 app.UseSwaggerUI();
-app.UseSwaggerUI(c =>
-// ✅ Enable CORS
+
+// CORS enable
 app.UseCors("AllowFrontend");
 
+// HTTPS redirection
 app.UseHttpsRedirection();
+
+// Authorization
 app.UseAuthorization();
 
+// Controllers map
 app.MapControllers();
 
+// ======================
+// Run application
+// ======================
 app.Run();

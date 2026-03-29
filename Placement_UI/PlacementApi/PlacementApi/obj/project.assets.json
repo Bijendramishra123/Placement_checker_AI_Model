@@ -714,23 +714,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LOVE KUMAR SAHU\\.nuget\\packages\\": {},
+    "C:\\Users\\RAVI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementAPI\\PlacementAPI\\PlacementApi.csproj",
-      "projectName": "PlacementApi",
-      "projectPath": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementAPI\\PlacementAPI\\PlacementApi.csproj",
-      "packagesPath": "C:\\Users\\LOVE KUMAR SAHU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LOVE KUMAR SAHU\\source\\repos\\PlacementAPI\\PlacementAPI\\obj\\",
+      "projectUniqueName": "C:\\Users\\RAVI\\Desktop\\.Net_core\\Placement_checker_AI_Model\\Placement_UI\\PlacementApi\\PlacementApi\\PlacementAPI.csproj",
+      "projectName": "PlacementAPI",
+      "projectPath": "C:\\Users\\RAVI\\Desktop\\.Net_core\\Placement_checker_AI_Model\\Placement_UI\\PlacementApi\\PlacementApi\\PlacementAPI.csproj",
+      "packagesPath": "C:\\Users\\RAVI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RAVI\\Desktop\\.Net_core\\Placement_checker_AI_Model\\Placement_UI\\PlacementApi\\PlacementApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LOVE KUMAR SAHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RAVI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -739,6 +739,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -757,7 +758,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -791,7 +792,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
