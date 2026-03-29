@@ -7,7 +7,7 @@ function PredictorForm() {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
 
-    const BASE_URL = "https://placement-checker-ai-model.onrender.com";
+    const BASE_URL = import.meta.env.VITE_API_URL;
 
   const handleSubmit = async (e) => {
     e.preventDefault();
