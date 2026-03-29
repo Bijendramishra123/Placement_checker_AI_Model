@@ -7,7 +7,7 @@ function PredictorForm() {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  const BASE_URL = "http://localhost:5242";
+    const BASE_URL = "https://placement-checker-ai-model.onrender.com";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
