@@ -48,4 +48,4 @@ app.MapControllers();
 // ======================
 // Run application
 // ======================
-app.Run();
+app.Run("http://0.0.0.0:10000");
